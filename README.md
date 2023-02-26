@@ -16,7 +16,7 @@
         <img src=""
             alt="Youtube Badge" />
     </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
+    <a href="https://twitter.com/JUANJOS59097470 target"="_blank">
         <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
