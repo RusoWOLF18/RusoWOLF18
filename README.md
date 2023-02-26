@@ -11,10 +11,7 @@
     <a href="http://twitch.com/rusowolf18" target="_blank">
         <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
             alt="Twitch Badge" />
-    </a>
-    <a href=""_blank">
-        <img src=""
-            alt="Youtube Badge" />
+  
     </a>
     <a href="https://twitter.com/JUANJOS59097470" target="_blank">
         <img src="https://img.shields.io/twitter/follow/JUANJOS59097470?color=blue&labelJUANJOS59097470&logo=twitter&style=for-the-badge"
