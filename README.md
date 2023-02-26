@@ -16,8 +16,8 @@
         <img src=""
             alt="Youtube Badge" />
     </a>
-    <a href="https://twitter.com/JUANJOS59097470 target"="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
+    <a href="https://twitter.com/JUANJOS59097470" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/JUANJOS59097470?color=blue&labelJUANJOS59097470&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
 </div>
@@ -25,8 +25,6 @@
 ---
 
 ### 👨‍💻 About Me :
-
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
 
 - 💬 Ask me about **PHP, Laravel, Python, Javascript**
 
